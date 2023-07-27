@@ -1,0 +1,22 @@
+# About Us
+
+All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+
+## Blake Waldman
+
+<left>
+<img src="_bookdown_files/Headshots/Blake_Picture.png" width="200" style="border:2px solid black;">
+</left>
+
+I'm a graduate of Case Western Reserve University with majors in Finance and Data Science and a minor in Economics. I'm currently pursuing a Master of Business Analytics at the University of Michigan's Ross School of Business.
+
+During my time at Case Western, I served as a teaching assistant for Statistics and managed a significant part of The Weatherhead Fund's portfolio. Additionally, I held leadership roles in Alpha Kappa Psi and Zeta Beta Tau fraternities, enhancing my team management and strategic planning skills.
+
+Proficient in languages such as Java, Python, R, and SQL, I'm also experienced in tools like Google Suite, Microsoft Office, SPSS, NoSQL databases, and XML. My passion lies in leveraging the power of data to drive business decisions. Outside of work, I enjoy fishing, baking, and racket sports.
+
+For more about me, visit my [![Github Por](https://img.shields.io/badge/Github-333.svg?style=plastic&logo=Github&logoColor=white)](https://blakewaldman.github.io/) 
+
+
+### An unnumbered section {-}
+
+Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
