@@ -14,7 +14,7 @@ During my time at Case Western, I served as a teaching assistant for Statistics 
 
 Proficient in languages such as Java, Python, R, and SQL, I'm also experienced in tools like Google Suite, Microsoft Office, SPSS, NoSQL databases, and XML. My passion lies in leveraging the power of data to drive business decisions. Outside of work, I enjoy fishing, baking, and racket sports.
 
-For more about me, visit my [![Github Por](https://img.shields.io/badge/Github-333.svg?style=plastic&logo=Github&logoColor=white)](https://blakewaldman.github.io/) 
+For more about me, visit my [![Github Por](https://img.shields.io/badge/Github-333.svg?style=plastic&logo=Github&logoColor=white)](https://github.com/blakewaldman/) 
 
 
 ### An unnumbered section {-}
