@@ -1,9 +1,10 @@
 bookdown::gitbook:
   css: style.css
   config:
+    sharing: no
     toc:
       before: |
-        <li><a href="./">Analytical Business Graphs Make Sense</a></li>
+        <li class="toc-logo"><a href="./"><img src="ABGMS_logo.png"></a></li>
       # after: |
       #   <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     download: ["pdf", "epub"]

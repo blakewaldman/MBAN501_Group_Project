@@ -12,3 +12,19 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.toc-logo {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.toc-logo img {
+  display: block;
+  width: 100%;
+  max-width: 200px; 
+  margin: 0 auto 10px;
+}
+
+.summary > li:first-child {
+  height: auto !important; 
+}
