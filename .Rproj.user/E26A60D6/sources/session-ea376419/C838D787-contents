@@ -1,11 +1,11 @@
 --- 
 title: "A Minimal Book Example"
-author: "John Doe"
+author: "Blake Waldman"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
+url: your book url like https://bwaldman02.github.io/
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   This is a minimal example of using the bookdown package to write a book.
