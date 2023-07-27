@@ -5,7 +5,7 @@ All chapters start with a first-level heading followed by your chapter title, li
 ## Blake Waldman
 
 <left>
-<img src="_bookdown_files/Headshots/Blake_Picture.png" width="200" style="border:2px solid black;">
+<img src="Headshots/Blake_Picture.png" width="200" style="border:2px solid black;">
 </left>
 
 I'm a graduate of Case Western Reserve University with majors in Finance and Data Science and a minor in Economics. I'm currently pursuing a Master of Business Analytics at the University of Michigan's Ross School of Business.
