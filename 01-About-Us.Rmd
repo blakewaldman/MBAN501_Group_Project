@@ -16,18 +16,17 @@ Proficient in languages such as Java, Python, R, and SQL, I'm also experienced i
 
 For more about me, visit my [![Github Por](https://img.shields.io/badge/Github-333.svg?style=plastic&logo=Github&logoColor=white)](https://github.com/blakewaldman/) 
 
-<<<<<<< Updated upstream
 <<<<<<< HEAD
-=======
+
 ## Sierra Brooks 
-=======
+
+
 ## Melissa Wolff
 Hi!
 
->>>>>>> Stashed changes
 
 ## Griffin Hockenberry
->>>>>>> 8003f656c9c1b7ee57bbc60577cfd6e0febec4aa
+
 ### An unnumbered section {-}
 
 Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.

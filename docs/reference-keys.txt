@@ -4,4 +4,6 @@ render-book
 preview-book
 about-us
 blake-waldman
+sierra-brooks
 melissa-wolff
+griffin-hockenberry
