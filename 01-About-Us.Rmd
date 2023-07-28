@@ -26,7 +26,7 @@ Hi!
 
 >>>>>>> Stashed changes
 
-
+## Griffin Hockenberry
 >>>>>>> 8003f656c9c1b7ee57bbc60577cfd6e0febec4aa
 ### An unnumbered section {-}
 
