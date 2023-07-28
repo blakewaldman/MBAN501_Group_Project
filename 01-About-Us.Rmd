@@ -16,14 +16,32 @@ Proficient in languages such as Java, Python, R, and SQL, I'm also experienced i
 
 For more about me, visit my [![Github Por](https://img.shields.io/badge/Github-333.svg?style=plastic&logo=Github&logoColor=white)](https://github.com/blakewaldman/) 
 
-<<<<<<< HEAD
 
 ## Sierra Brooks 
 
 
 ## Melissa Wolff
-Hi!
 
+<table style="width:100%;">
+  <tr>
+    <td style="width:30%;">
+      <img src="Headshots/Melissa_Picture.png">
+    </td>
+    <td style="width:70%;">
+      I am a current Master of Business Analytics student at the Ross School of Business. I graduated from Binghamton University with a Bachelor of Science in Business Administration with a concentration in Management Information Systems and a minor in Computer Science. I have had multiple internships and jobs within the technology field in the entertainment and financial industries. Through my education and professional experience, I have become more interested in how to leverage data to benefit companies.
+    </td>
+  </tr>
+  <tr style="background: white;">
+    <td colspan="2">
+    In my past experience, I have had exposure into various programming languages, such as Python, C++, JavaScript, and SQL. I have designed and managed databases as well as automated manually processes to improve organizational efficiencies.
+
+I am from Binghamton, NY and the youngest of 3 (I have an older brother and older sister). I love roaming the streets of New York City and hope to move there after graduation. I enjoy baking and trying new recipes, doing the New York Times crossword puzzle, exercising, and playing the piano.
+    </td>
+  </tr>
+</table>
+
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/melissa-wolff/)!
 
 ## Griffin Hockenberry
 
