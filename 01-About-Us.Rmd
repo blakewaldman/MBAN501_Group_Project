@@ -4,44 +4,26 @@ All chapters start with a first-level heading followed by your chapter title, li
 
 ## Blake Waldman
 
-<left>
-<img src="Headshots/Blake_Picture.png" width="200" style="border:2px solid black;">
-</left>
-
-I'm a graduate of Case Western Reserve University with majors in Finance and Data Science and a minor in Economics. I'm currently pursuing a Master of Business Analytics at the University of Michigan's Ross School of Business.
-
-During my time at Case Western, I served as a teaching assistant for Statistics and managed a significant part of The Weatherhead Fund's portfolio. Additionally, I held leadership roles in Alpha Kappa Psi and Zeta Beta Tau fraternities, enhancing my team management and strategic planning skills.
-
-Proficient in languages such as Java, Python, R, and SQL, I'm also experienced in tools like Google Suite, Microsoft Office, SPSS, NoSQL databases, and XML. My passion lies in leveraging the power of data to drive business decisions. Outside of work, I enjoy fishing, baking, and racket sports.
-
-For more about me, visit my [![Github Por](https://img.shields.io/badge/Github-333.svg?style=plastic&logo=Github&logoColor=white)](https://github.com/blakewaldman/) 
+<div class="profile-section">
+<img src="Headshots/Blake_Picture.png" class="profile-image">
+<p>I'm a graduate of Case Western Reserve University with majors in Finance and Data Science and a minor in Economics. I'm currently pursuing a Master of Business Analytics at the University of Michigan's Ross School of Business.</p>
+<p>During my time at Case Western, I served as a teaching assistant for Statistics and managed a significant part of The Weatherhead Fund's portfolio. Additionally, I held leadership roles in Alpha Kappa Psi and Zeta Beta Tau fraternities, enhancing my team management and strategic planning skills.</p>
+<p>Proficient in languages such as Java, Python, R, and SQL, I'm also experienced in tools like Google Suite, Microsoft Office, SPSS, NoSQL databases, and XML. My passion lies in leveraging the power of data to drive business decisions. Outside of work, I enjoy fishing, baking, and racket sports.</p>
+</div>
+<p>For more about me, visit my <a href="https://github.com/blakewaldman/"><img src="https://img.shields.io/badge/Github-333.svg?style=plastic&logo=Github&logoColor=white" alt="Github Profile"></a></p>
 
 
 ## Sierra Brooks 
 
-
 ## Melissa Wolff
 
-<table style="width:100%;">
-  <tr>
-    <td style="width:30%;">
-      <img src="Headshots/Melissa_Picture.png">
-    </td>
-    <td style="width:70%;">
-      I am a current Master of Business Analytics student at the Ross School of Business. I graduated from Binghamton University with a Bachelor of Science in Business Administration with a concentration in Management Information Systems and a minor in Computer Science. I have had multiple internships and jobs within the technology field in the entertainment and financial industries. Through my education and professional experience, I have become more interested in how to leverage data to benefit companies.
-    </td>
-  </tr>
-  <tr style="background: white;">
-    <td colspan="2">
-    In my past experience, I have had exposure into various programming languages, such as Python, C++, JavaScript, and SQL. I have designed and managed databases as well as automated manually processes to improve organizational efficiencies.
-
-I am from Binghamton, NY and the youngest of 3 (I have an older brother and older sister). I love roaming the streets of New York City and hope to move there after graduation. I enjoy baking and trying new recipes, doing the New York Times crossword puzzle, exercising, and playing the piano.
-    </td>
-  </tr>
-</table>
-
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/melissa-wolff/)!
+<div class="profile-section">
+<img src="Headshots/Melissa_Picture.png" class="profile-image">
+<p>I am a current Master of Business Analytics student at the Ross School of Business. I graduated from Binghamton University with a Bachelor of Science in Business Administration with a concentration in Management Information Systems and a minor in Computer Science. I have had multiple internships and jobs within the technology field in the entertainment and financial industries. Through my education and professional experience, I have become more interested in how to leverage data to benefit companies.</p>
+<p>In my past experience, I have had exposure to various programming languages, such as Python, C++, JavaScript, and SQL. I have designed and managed databases as well as automated manual processes to improve organizational efficiencies.</p>
+<p>I am from Binghamton, NY and the youngest of 3 (I have an older brother and older sister). I love roaming the streets of New York City and hope to move there after graduation. I enjoy baking and trying new recipes, doing the New York Times crossword puzzle, exercising, and playing the piano.</p>
+</div>
+<p>For more about me, visit my <a href="https://www.linkedin.com/in/melissa-wolff/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Github Profile"></a></p>
 
 ## Griffin Hockenberry
 

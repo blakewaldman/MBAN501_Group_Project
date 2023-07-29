@@ -28,3 +28,25 @@ pre code {
 .summary > li:first-child {
   height: auto !important; 
 }
+
+/* For About Us */
+.profile-section {
+  width: 100%;
+}
+
+.profile-image {
+  width: 200px;
+  border: 2px solid black;
+  float: left;
+  margin-right: 20px;
+}
+
+.profile-section p {
+  margin: 0 0 1em 0;
+}
+
+.profile-section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
