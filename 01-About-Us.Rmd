@@ -1,6 +1,33 @@
 # About Us
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+## Analytical Business Graphs Make Sense
+<p>We are team Analytical Business Graphs Make Sense!</p>
+<img src="Headshots/Team_Picture.png" style="height:400px; width:auto; display:block; margin-left:auto; margin-right:auto;">
+
+
+## Sierra Brooks 
+
+<div class="profile-section">
+<img src="Headshots/Sierra_Photo.JPG" class="profile-image">
+<p>I’m a current Master of Business Analytics student from the suburbs of Chicago, specifically Plainfield, Illinois. I recently graduated from the University of Michigan with my Bachelor of Business Administration from the Ross School of Business. Throughout my undergrad, I completed various consulting and marketing internships as well as being heavily involved in the athletics community at Michigan. I am a current member of the Michigan Women’s Gymnastics team and will be going into my third year as the President of Michigan’s Student-Athlete Advisory Committee.</p>
+<p>When I have additional time, I enjoy photography, reading, watching movies, and exercising. I also adore podcasts and specifically love learning about social and decision sciences, education, and personal development. I have a younger brother and a 2 month old dog named Bruno.</p>
+</div>
+<p>For more about me, visit my <a href="https://www.linkedin.com/in/sierrabrooks/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="vertical-align: middle;"></a></p>
+
+
+## Austen Hardie
+
+<div class="profile-section">
+<img src="Headshots/Austen_Photo.jpg" class="profile-image">
+<p>I am a current Masters of Business Analytics student at the Ross School of Business from Westchester County, NY. I graduated from University of Michigan College of Literature, Science and Arts this past May (‘23) with a Bachelors of Science in Mathematics. Last summer I interned at a software company in Boston and this was my first real introduction to the world of data analytics. I had a wonderful experience and it undoubtedly contributed to my reasons for applying to the MBAn program.</p>
+<p>I have experience coding in both C++ and Python as well as MATLAB and Simulink. I am the middle child of three girls, my older sister Hannah is 26 and my younger sister Emma is 18. I have a German Shepherd name Gauge who seems like the devil but is a sweetheart in reality. In my free time I enjoy going to workout classes, running, playing board and/or card games with my friends, cooking and baking.</p>
+</div>
+<p>For more about me, visit my <a href="https://www.linkedin.com/in/austen-hardie-129220198/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="vertical-align: middle;"></a></p>
+
+
+## Griffin Hockenberry
+
+
 
 ## Blake Waldman
 
@@ -10,23 +37,16 @@ All chapters start with a first-level heading followed by your chapter title, li
 <p>During my time at Case Western, I served as a teaching assistant for Statistics and managed a significant part of The Weatherhead Fund's portfolio. Additionally, I held leadership roles in Alpha Kappa Psi and Zeta Beta Tau fraternities, enhancing my team management and strategic planning skills.</p>
 <p>Proficient in languages such as Java, Python, R, and SQL, I'm also experienced in tools like Google Suite, Microsoft Office, SPSS, NoSQL databases, and XML. My passion lies in leveraging the power of data to drive business decisions. Outside of work, I enjoy fishing, baking, and racket sports.</p>
 </div>
-<p>For more about me, visit my <a href="https://github.com/blakewaldman/"><img src="https://img.shields.io/badge/Github-333.svg?style=plastic&logo=Github&logoColor=white" alt="Github Profile"></a></p>
+<p>For more about me, visit my <a href="https://github.com/blakewaldman/"><img src="https://img.shields.io/badge/Github-333.svg?style=plastic&logo=Github&logoColor=white" alt="Github Profile" style="vertical-align: middle;"></a></p>
 
-
-## Sierra Brooks 
 
 ## Melissa Wolff
 
 <div class="profile-section">
 <img src="Headshots/Melissa_Picture.png" class="profile-image">
-<p>I am a current Master of Business Analytics student at the Ross School of Business. I graduated from Binghamton University with a Bachelor of Science in Business Administration with a concentration in Management Information Systems and a minor in Computer Science. I have had multiple internships and jobs within the technology field in the entertainment and financial industries. Through my education and professional experience, I have become more interested in how to leverage data to benefit companies.</p>
+<p>I am a current Master of Business Analytics student at the Ross School of Business. I graduated from Binghamton University with a Bachelor of Science in Business Administration with a concentration in Management Information Systems and a minor in Computer Science. I have had multiple internships and jobs within the technology field in the entertainment and financial industries. Through my education and professional experience, I have become more interested in how to use data to benefit companies.</p>
 <p>In my past experience, I have had exposure to various programming languages, such as Python, C++, JavaScript, and SQL. I have designed and managed databases as well as automated manual processes to improve organizational efficiencies.</p>
 <p>I am from Binghamton, NY and the youngest of 3 (I have an older brother and older sister). I love roaming the streets of New York City and hope to move there after graduation. I enjoy baking and trying new recipes, doing the New York Times crossword puzzle, exercising, and playing the piano.</p>
 </div>
-<p>For more about me, visit my <a href="https://www.linkedin.com/in/melissa-wolff/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Github Profile"></a></p>
+<p>For more about me, visit my <a href="https://www.linkedin.com/in/melissa-wolff/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="vertical-align: middle;"></a></p>
 
-## Griffin Hockenberry
-
-### An unnumbered section {-}
-
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
