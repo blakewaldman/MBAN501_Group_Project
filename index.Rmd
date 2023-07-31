@@ -1,58 +1,33 @@
 ---
-title: "ABGMS Book"
-author: "Blake et al."
+title: "AI Unleashed: Navigating the Risks of Our Automated Future"
+author: "Sierra Brooks, Austen Hardie, Griffin Hockenberry, Blake Waldman, Melissa Wolff"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: [citations.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
+cover-image: path_to_cover_image.jpg
 description: |
   This is our team project for MBAN501. In this project we are exploring
-  potential negatives associated with Artifical Intelligence (AI).
+  potential negatives associated with Artificial Intelligence (AI).
 link-citations: yes
 github-repo: blakewaldman/MBAN501_Team_Project
 ---
 
-# About
+# Introduction
 
-This is a *sample* book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+## The Promises of AI {-}
 
-## Usage
+“Artificial Intelligence (AI) stands on the precipice of dramatically reshaping our world, unlocking potentials that have been largely the domain of science fiction. AI has the capability to revolutionize sectors from healthcare to finance, automating and enhancing tasks with a speed and accuracy that surpass human ability. It can predict patterns in complex data, opening doors for breakthroughs in medical diagnoses and climate modeling. By harnessing the power of machine learning, we can create more personalized user experiences, from smart homes to bespoke online content. AI can also boost economic productivity, catalyzing growth, and fostering innovation.”
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+**Actually, the entire paragraph you just read was written by ChatGPT. Cool, right?** 
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+## The Risks of AI {-}
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+Artificial intelligence, AI, is impressive in simple terms, but its capacity to mimic human thought and behavior doesn't come without risks. Artificial intelligence can impact everyday life both in a positive and negative way. It has the possibility to impact the environment negatively, as well as increase the digital divide that is already present in modern day society. 
 
-## Render book
+Along with this, humans may lose a sense of privacy and security over their own data and life. It’s also critical to consider what can happen when the AI space has a small number of powerful entities. These firms may be increasingly likely to leverage their own technologies to move and educate people in ways that they desire. Furthermore, as AI technology develops and becomes more accurate and accessible, society could become overly reliant on it to complete mundane tasks. Considering this, there may be incredible interruptions in our society when the technology eventually ‘breaks’ or has errors. 
 
-You can render the HTML version of this example book without changing anything:
+## Our Aim {-}
 
-1.  Find the **Build** pane in the RStudio IDE, and
-
-2.  Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
-
-Or build the book from the R console:
-
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-## Preview book
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
-
-```{r eval=FALSE}
-bookdown::serve_book()
-```
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+We plan to dive into some of the biggest risks and challenges that our world faces today because of AI’s development.  

@@ -3,9 +3,10 @@ bookdown::gitbook:
   config:
     sharing: no
     toc:
+      collapse: section
       before: |
         <li class="toc-logo"><a href="./"><img src="ABGMS_logo.png" 
         alt="Analytical Business Graphs Make Sense (ABGMS)" 
         title="Analytical Business Graphs Make Sense"></a></li>
-      # after: |
-      #   <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+      after: |
+        <li><a href="references.html">References</a></li>
