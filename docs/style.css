@@ -50,3 +50,10 @@ pre code {
   display: table;
   clear: both;
 }
+
+.book .book-summary .summary li a {
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+    hyphens: auto !important;
+    white-space: normal !important;
+}
