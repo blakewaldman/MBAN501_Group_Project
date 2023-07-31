@@ -5,7 +5,7 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li class="toc-logo"><a href="./"><img src="ABGMS_logo.png" 
+        <li class="toc-logo"><a href="./"><img src="ABGMS_logo_tp.png" 
         alt="Analytical Business Graphs Make Sense (ABGMS)" 
         title="Analytical Business Graphs Make Sense"></a></li>
       after: |
