@@ -1,5 +1,4 @@
 introduction
-about-us
 overview-of-ai-and-its-potential-challenges
 green-ai-the-environmental-footprint
 privacy-and-security-in-the-age-of-ai

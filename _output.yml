@@ -8,5 +8,18 @@ bookdown::gitbook:
         <li class="toc-logo"><a href="./"><img src="ABGMS_logo_tp.png" 
         alt="Analytical Business Graphs Make Sense (ABGMS)" 
         title="Analytical Business Graphs Make Sense"></a></li>
+        <div class="centered-dropdown"> 
+            <li class="dropdown">
+              <a href="about-us.html" class="dropbtn">About Us</a>
+              <div class="dropdown-content">
+                <a href="#sierra-brooks">Sierra Brooks</a>
+                <a href="#austen-hardie">Austen Hardie</a>
+                <a href="#griffin-hockenberry">Griffin Hockenberry</a>
+                <a href="#blake-waldman">Blake Waldman</a>
+                <a href="#melissa-wolff">Melissa Wolff</a>
+              </div>
+            </li>
+        </div>
+
       after: |
         <li><a href="references.html">References</a></li>
