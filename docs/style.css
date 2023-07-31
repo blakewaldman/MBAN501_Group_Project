@@ -89,6 +89,8 @@ pre code {
 
 .dropbtn {
   font-weight: bold;
+  text-decoration: underline;
+
 }
 
 .centered-dropdown {
