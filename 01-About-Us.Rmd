@@ -1,8 +1,8 @@
 # About Us {.unlisted .unnumbered}
 
 
-## Meet the Team {-}
-<p style="text-align: center;"><strong style="font-size: larger;">Analytical Business Graphs Make Sense!</strong></p>
+## Meet the Team! {-}
+<p style="text-align: center;"><strong style="font-size: larger;">Analytical Business Graphs Make Sense</strong></p>
 <p>We're a dedicated and driven team focused on leveraging the power of data analytics to deliver business insights. Working collaboratively, we aim to make sense of complex business data through insightful graphical representations.</p>
 <img src="Headshots/Team_Picture.png" style="height:400px; width:auto; display:block; margin-left:auto; margin-right:auto;">
 
