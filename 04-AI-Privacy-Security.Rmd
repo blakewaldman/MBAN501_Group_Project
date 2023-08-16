@@ -52,10 +52,10 @@ Future directions also include the development of standardized testing and evalu
 Existing Ethical Frameworks and Guidelines
 Ethical considerations in AI, particularly in the context of security and privacy, have led to the development of various frameworks and guidelines. One prominent example is the Asilomar AI Principles, which outline a set of ethical guidelines for AI research and development [@futureoflife2017]. These principles emphasize the importance of safety, transparency, and accountability in AI systems, with specific attention to privacy and data protection. Different cultures, legal systems, and societal values may interpret ethical principles differently, leading to challenges in creating universally accepted guidelines.
 
-## Challenges and Limitations in Ethical Compliance {-}
+### Challenges and Limitations in Ethical Compliance {-}
 Enforcement and accountability are significant challenges in ethical AI. While some principles and guidelines already exist, ensuring compliance can be difficult. The rapidly evolving nature of AI technology, coupled with the complexity of privacy and security issues, makes enforcement a moving target. Moreover, questions related to plagiarism and copyright infringement arise when using others' data to create AI models. The boundaries between legitimate use and infringement are often blurred, leading to ethical dilemmas and potential legal conflicts.
 
-## Future Directions in Ethical AI {-}
+### Future Directions in Ethical AI {-}
 The future of ethical AI requires global collaboration and continuous research [@russell2016research]. Efforts must be made to harmonize ethical guidelines across different jurisdictions and to develop mechanisms for monitoring and enforcement. Ongoing research is also exploring the ethical implications of emerging technologies, such as federated learning, which aims to train AI models on decentralized data, potentially enhancing privacy and security. The intersection of ethics, law, and technology is a rich area for exploration, with the potential to shape the future of responsible AI development.
 
 ## Societal Impact and Public Engagement {-}
