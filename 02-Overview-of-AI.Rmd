@@ -4,13 +4,11 @@ It is easy to become enamored with the idea of artificial intelligence. After al
 
 Firstly, we will examine the implications that AI has on the environment. Specifically, we will analyze how much water and energy AI consumes as well as examining the processes required to build sustainable AI.
 
-Next, we will take a look at the consequences of AI with regards to privacy and security. Where is the training data that AI utilizes coming from? How does Open AI impact data security? This section of the paper aims to answer these questions and provide insight into how AI can affect personal privacy and security. 
+Next, we will take a look at the consequences of AI with regards to privacy and security. Where is the training data that AI utilizes coming from? How does generative AI impact data security? This section of the paper aims to answer these questions and provide insight into how AI can affect personal privacy and security. 
 
 After discussing privacy and security we will address the digital divide that comes with the use of AI. in this section we focus on how different regions’ accessibility to AI differs and the consequences this might have on certain portions of the population. 
 
 In this next section we switch to a focus on AI in the context of business. Specifically we will tackle how the capitalization of AI may negatively affect smaller companies and the repercussions this might have on market concentration. 
-The last fundamental subject we will analyze is AI as infrastructure. What happens when AI breaks? If we have an overreliance on artificial intelligence what are the consequences when these machines break? In this section we will examine the ensuing disruption that takes place when AI cannot function properly. 
+The last fundamental subject we will analyze is AI as infrastructure. What happens when AI breaks? If we have an overreliance on artificial intelligence what are the consequences when these machines fail? In this section we will examine the ensuing disruption that takes place when AI cannot function properly. 
 
 In the last section of our paper we will address, but not dive deep into, other ways in which AI can pose potential threats. We compare and contrast the abilities humans possess versus those that machines do, then we briefly discuss the consequences of biased information in AI as well as AI’s potential in weapon development before concluding our paper with some legal and integration risks of AI. 
-
-We conclude our paper with a summary of our findings and address the importance of awareness when it comes to utilizing artificial intelligence.
