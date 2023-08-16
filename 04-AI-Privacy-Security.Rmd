@@ -29,11 +29,12 @@ Authentication in AI systems is essential to verify the identity of users and de
 ### Identifying and Addressing Risks {-}
 AI systems are not immune to vulnerabilities and potential risks. These can range from software flaws to hardware weaknesses, and even sophisticated new threats. Among these threats are:
 
-  1. **Quantum Attacks**: Leveraging the capabilities of quantum computers to break widely used cryptographic algorithms, posing a significant threat to current encryption methods [@bernstein2017postquantum]. The development of quantum-resistant cryptographic techniques is essential to safeguard AI data.
-  2. **Adversarial Attacks**: Malicious manipulations designed to deceive AI models. These can be broadly categorized into:
-    a. *Poisoning Attacks*: Corrupting the training data, impacting the learning process itself and having long-term effects on AI models.
-    b. *Evasion Attacks*: Altering the input to the AI model to produce incorrect outputs, typically targeted at specific instances to bypass security measures or manipulate AI-driven decisions [@biggio2013evasion].
-  3. **Other Risks**: Including unauthorized access, data breaches, and general weaknesses in software or hardware.
+1. **Quantum Attacks**: Leveraging the capabilities of quantum computers to break widely used cryptographic algorithms, posing a significant threat to current encryption methods [@bernstein2017postquantum]. The development of quantum-resistant cryptographic techniques is essential to safeguard AI data.
+2. **Adversarial Attacks**: Malicious manipulations designed to deceive AI models. These can be broadly categorized into:
+   a. *Poisoning Attacks*: Corrupting the training data, impacting the learning process itself and having long-term effects on AI models.
+   b. *Evasion Attacks*: Altering the input to the AI model to produce incorrect outputs, typically targeted at specific instances to bypass security measures or manipulate AI-driven decisions [@biggio2013evasion].
+3. **Other Risks**: Including unauthorized access, data breaches, and general weaknesses in software or hardware.
+
 
 The diverse nature of these threats necessitates a multifaceted approach to security. Across all areas, the transition to more robust security measures is a complex and urgent task that requires collaboration between researchers, industry, and regulators to ensure the ongoing integrity and confidentiality of AI systems.
 
