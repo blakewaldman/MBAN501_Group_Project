@@ -1,19 +1,19 @@
 # Market Concentration
 
-## Market Overview
+## Market Overview {-}
 
 The AI market size is expected to increase more than $2 trillion over the next 10 years with tech giants leading the revolution. These companies hold tremendous power and have a responsibility to “foster innovation” [@Precedence_Research_2023]. The big tech corporations dominating the AI market include Alphabet, Microsoft, Apple, and Amazon. These firms have established their presence and invested vast resources into the future of AI. For example, Open AI lost $540 million in 2022 developing ChatGPT and DALL-E 2 [@Chowdhury_2023]. These AI algorithms require massive amounts of data and computing power, which can be costly. Without these two factors, models would essentially be useless. However, as the amounts of these factors increase, the smarter the model can become.
 
 (Picture)
 
 
-## Power of Data
+## Power of Data {-}
 The data and power of the tech giants is unmatched, and the infinite data collection cycle that they operate under places them at an advantage [@Niyazov_2023]. They gather consumer data from the millions of users that they currently interact with, which can be used to improve AI algorithms and user experiences, ultimately attracting more users and retaining current ones.
 
 (Picture)
 
 
-## Competition
+## Competition {-}
 
 Furthermore, as AI advances and human dependence on such tools increase, these firms will have greater power to control not only pricing but also the way that tasks are completed [@Eliot_2020]. These companies have essentially created an oligopoly within the industry, making it difficult for newcomers to enter the market. Certain AI startups have been successful in establishing their position within the market with the help of partnerships and acquisitions. For example, Intel acquired Habana Labs Ltd., a company focused on deep learning, and IBM Watson Health partnered with Guerbet, a medical imaging company [@Artificial_Intelligence_Market_Size_Share_Growth_Report_2030]. Both of these unions were meant to promote the organizations’ presence within the AI market and expedite the rate at which these organizations could develop AI tools. Being the first to launch an AI product puts the company at a competitive advantage.
 
