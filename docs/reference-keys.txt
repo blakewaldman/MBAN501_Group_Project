@@ -13,3 +13,11 @@ definitions
 theories-and-consequences
 ai-failures
 the-rest-miscellaneous-ai-considerations
+humans-vs.-tech
+humans-vs.-tech-challenges-ai-faces-against-humans
+humans-vs.-tech-challenges-humans-face-against-ai
+bad-intentions
+biased-information
+weapon-development
+legal-challenges
+integration-risks
