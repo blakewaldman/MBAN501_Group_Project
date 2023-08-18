@@ -6,3 +6,4 @@ the-digital-divide-and-ai-accessibility
 market-concentration
 when-ai-breaks-dependence-and-disruption
 the-rest-miscellaneous-ai-considerations
+team-dynamics-the-agile-way

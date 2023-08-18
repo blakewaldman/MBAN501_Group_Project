@@ -2,7 +2,7 @@
 
 ## Impact of AI on Environment {-}
 
-In the field of sustainable development, AI is often touted as the end-all solution to optimization. AI does offer a lot of sustainability solutions, but it doesn't come without its drawbacks. AI consumes a lot of resources to train its models. Water is consumed to cool the computers, energy is consumed to power the computers, and then the old hardware is thrown away. While AI offers a lot of promising advancements, being conscious of the negative effects is important to mitigating damage caused by AI
+In the field of sustainable development, AI is often touted as the end-all solution to optimization. AI does offer a lot of sustainability solutions, but it doesn't come without its drawbacks. AI consumes a lot of resources to train its models. Water is consumed to cool the computers, energy is consumed to power the computers, and then the old hardware is thrown away. While AI offers a lot of promising advancements, being conscious of the negative effects is important to mitigating damage caused by AI.
 
 ## Water Usage {-}
 

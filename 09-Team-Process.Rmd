@@ -1,0 +1,44 @@
+# Team Dynamics: The Agile Way
+
+## Introduction to Assignment and Topic Selection {-}
+
+For this assignment, we were asked to create a collaborative document or guide to help the Ross community that is accessible via the web. More specifically, we were to create a website utilizing GitHub and RMarkdown within RStudio. We initially pondered a wide variety of topics that touched on generative AI, but after meeting with Sanjeev Kumar, we ended up focusing on the Risks and Challenges of AI. This meant that our audience would now shift. Instead of creating a guide for Ross students or faculty, we instead were creating a guide for anyone interested in AI. We made the assumption that most individuals do not know the ins and outs of AI, so we tried to remain high-level and anticipate the types of questions they would have. In addition, we tried to think about risks or narratives surrounding AI that they may already have exposure to, and try to further educate them in unique ways. 
+
+After selecting a topic, we created a game plan for the rest of the semester. We wanted to ensure that we finished our deliverable on time and told a story using quality research, all while expanding our individual skill sets the entire time. 
+
+## Project Planning and Timeline {-}
+
+After we had our topic, our first team meeting was spent coming up with possible subtopics and assigning those to the members of our group based on whose background most closely fit with the specified topic. Subsequent meetings were used as checkpoints where we refined goals and deadlines based on what we each thought we could accomplish in the coming week. We found it incredibly helpful to set agendas before meetings and specifically assigning anything that needed to be completed beforehand. 
+
+A structured foundation from the beginning was essential in ensuring our team's success. It provided us with the trust and shared goal that we needed moving forward to help create our website.
+
+## People and Interactions over Processes and Tools {-}
+
+One of the most fundamental ideals of the agile methodology is the importance of people and interactions over processes and tools. Throughout the duration of this project, our team undoubtedly relied more on one another than we did RStudio or GitHub. Despite having manuals that guided us through the basics of R Markdown and Git, our group utilized each other’s skills more often than we did the documentation. We learned from each other and failed together which naturally created a psychologically safe environment. Being able to work together in such a positive atmosphere allowed us to meet deadlines and work more efficiently. 
+
+This can also be attributed to the fact that we all had a shared mission. We knew what we wanted to accomplish with our project and how to achieve it; thus, this consensus allowed us to have a very fluid group dynamic that proved to be extremely beneficial. We delegated tasks to each other and each individual within our group knew what was expected from them at each meeting. Additionally, since we were very open with one another regarding our strengths and weaknesses from the beginning of the project, this enabled us to be more transparent regarding which tasks we were able to complete and which ones we would need help with from the group. Ultimately, taking an agile approach to this project was advantageous for our group and we believe that this is exemplified through our final product.  
+
+## Working Software over Comprehensive Documentation {-}
+
+We created this book using R Markdown, a package within RStudio that supports the building of html pages, and Git, a tool for version control and file sharing. These tools, especially Git, were useful when working in a team. Git provided an outlet for us to store our work and revert to previous versions if needed. Most of our team was new to R Markdown and Git, however, we used online resources as well as peers to help us learn. It was also helpful that one team member had previous experience using these tools. It was important for us to meet in person as we found this was the most productive approach to accomplishing our tasks.
+
+Referencing the agile manifesto, “working software over comprehensive documentation”, we focused our efforts on ensuring that after each push, the site was still functioning as expected. If team members received errors when interacting with Git or if a recent commit caused breakage to the site, we focused on fixing the issue. In case these errors occurred again, we jotted down notes on how to resolve it rather than spending time to fully document it with analyses on the various triggers that may cause it and the different mitigation approaches. This allowed us to work faster and concentrate on completing the task at hand. The short notes also served as a helpful reference when the errors would arise again.
+
+
+## Customer Collaboration over Contract Negotiation {-}
+
+For this project, we consulted with a wide variety of individuals. It was important that we thought of this project almost as a consulting assignment, where there was a client involved. This was not the actual case, but it was very helpful to think about our work from this point of view. Rather than assuming our audience had the same exact knowledge, experience, and thought process as our team did, we tried to think of our client or end audience as someone else. This was someone who did not know a lot about AI, or someone who only knew about how great AI was. In fact, the reason we were able to reach the conclusion of thinking of our audience as someone different than ourselves was due to User Stories. 
+
+In class, we met with 2 other students from different project teams and were able to pitch our idea to them. They provided us with questions, general thoughts, and concerns surrounding our topic, which had a strong impact on what our end product looked like. In addition to these stories, our team meetings and meetings with Sanjeev were just as important.
+
+In meetings with Sanjeev, we learned to think outside of the box as our limited exposure to AI can significantly limit our ability to think about it creatively. We weigh our experiences with tools such as ChatGPT too heavily and don’t always think about the bigger picture. In addition, Sanjeev further emphasized the importance of telling a story from our research. Instead of researching blindly for surprising facts about AI risks or challenges, we could research with genuine curiosity about how our group’s narrative would shift because of the information we found. 
+
+Lastly, internal meetings were crucial to our team's success. This was a time when we worked on critical assignment milestones together, but also a time when we pushed each other to think about something differently. Instead of looking at a finished product and saying, “It looks great,” we were more likely to bring up some concerns or clarifying questions. Oftentimes, these small ‘just a thought’ comments ended up significantly changing our project’s trajectory for the better. 
+
+As a whole, actively getting a diverse group of individuals involved in our project in different ways was highly beneficial. Since we told individuals that we wanted their raw and genuine thoughts, we got responses that were less formulaic. These thought-provoking insights only helped us more. 
+
+## Responding to Change over Following a Plan {-}
+
+While working on this project, our team encountered a few unexpected challenges that required us to focus on adaptability. Our initial assumptions that the public generally held positive views on AI were challenged by our survey results. These results revealed people were well aware of some of the potential risks with AI, prompting a shift in the book's structure. By employing Agile principles, we focussed on our audience and emphasized collaboration and flexibility, leading to successful adjustments in planning and execution. Tools like Google Docs and GitHub enhanced this flexibility and iterative development. Furthermore, our collaboration with Dr. Sanjeev Kumar and our keen attention to the audience's expectations helped align our project with stakeholder needs. Despite having our occasional differences, the team's dedication to open dialogue ensured cohesive progress. 
+
+This project taught us the importance of being adaptable, emphasized the value of including diverse perspectives, and steered our focus towards prototype development. These insights, which closely align with key Agile Analytics principles, offer valuable guidance for future projects. Throughout the process, we embraced change; and while these shifts might initially seem troublesome, they often lead to marked improvements.
