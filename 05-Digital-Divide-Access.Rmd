@@ -14,7 +14,7 @@ By definition, the digital divide is the gap between those with Internet access 
 
 Given this information, the rapid emergence of Artificial Intelligence is likely to mimic the dispersion that occurred with the Internet and other emerging technologies. At this point, it is not possible to predict how AI will disperse and/or stick with populations, yet it is important to look at the current information we have about the world. As of April 2023, 64.6% of the global population makes up 5.18B internet users worldwide [@AniPetrosyan_22_2023]. In high-income countries, Internet usage is about 90% while it sits just above 25% for low-income countries. The graph below also shows the number of worldwide internet users over time. 
 
-image needed
+<br><img src="Site_Photos/Internet_Users.png" style="height:300px; width:auto; display:block; margin-left:auto; margin-right:auto;"><br>
 
 
 ## AI and the Digital Divide {-}
@@ -25,7 +25,7 @@ In order to assess how much of a social disruption AI can be globally in terms o
 
 The United States, the country with the highest percentage of AI use in the world, still has a large portion of the population that is not fully aware of what AI actually is and what it can do beyond very simple capabilities. Even though this is the case, it’s interesting to look at how a strong understanding of AI doesn’t necessarily equate to trust in AI companies. Perception can vastly change depending on where an individual is from, which is shown in the chart below. Countries more open to AI may be quicker to adopt and those that aren’t may be slower. That slow adoption could be costly in the short or long term. 
 
-image needed
+<br><img src="Site_Photos/AI_Acceptance.png" style="height:300px; width:auto; display:block; margin-left:auto; margin-right:auto;"><br>
 
 These insights are helpful to think about, but at this point, it’s critical to further dive into AI’s current costs and accessibility. 
 
@@ -45,5 +45,3 @@ Given this, it’s important to consider how having AI trained in the English la
 ## Looking Forward  {-}
 
 It is easy to think of AI in silos, but if one is to anticipate how AI will change the world, these factors need to be considered. The large differences between cultures and regions will definitely impact AI’s spread and the openness to which it is adopted. But even as it is adopted, will AI hold the same value for a company in the US versus Europe versus Africa? Will areas with less exposure to new technology even understand how AI could change the way they go about life? Even if they understand the impacts, would they know how to use AI properly? If demand keeps increasing, who will be able to afford it and who will get pushed out? These are questions that need to be considered as AI begins to grow.
-
-

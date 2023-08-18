@@ -3,14 +3,16 @@
 ## Introduction to AI Privacy and Security Concerns {-}
 The integration of AI into various aspects of daily life has brought about remarkable efficiency and convenience. However, the importance of privacy and security in AI cannot be overstated. Privacy refers to the right of individuals to control their personal information, while security focuses on protecting that information from unauthorized access [@zhang2017idoctor].
 
-The rise of AI has led to an exponential increase in data collection and processing. While this has fueled innovation, it has also raised concerns about the potential misuse of personal information. The balance between leveraging AI's capabilities and safeguarding privacy and security is a critical issue that requires careful consideration. Furthermore, the global nature of AI technologies means that privacy and security concerns transcend national boundaries. International collaboration and regulation are essential to ensure that AI is developed and used responsibly, respecting individual rights and societal values.
+The rise of AI has increased data collection and processing, fueling innovation while also sparking concerns about personal information misuse. Balancing AI capabilities with privacy and security is critical, requiring international collaboration and regulation to ensure responsible development that respects individual rights and societal values.
 
 ## Data Collection and Management {-}
 <u>Sources and Utilization of Data</u>
 
-AI systems rely on vast amounts of data collected from various sources. These sources can include social media, online searches, mobile applications, and Internet of Things (IoT) devices. The proliferation of connected devices, along with the growing number of people accessing the internet, has led to an explosion in the amount of data available for AI systems to analyze and learn from.
+AI systems rely on large training datasets and can continuously collect data. These data sources vary and can include social media, online searches, mobile applications, and Internet of Things (IoT) devices. The rapid increase of connected devices, along with the growing number of people accessing the internet, has led to an explosion in the amount of data available for AI systems to analyze and learn from.
 
-<u style="margin-bottom: 20px;">Legal Frameworks and Compliance</u>
+<br><img src="Site_Photos/Data_Photo.png" style="height:300px; width:auto; display:block; margin-left:auto; margin-right:auto;"><br>
+
+<u>Legal Frameworks and Compliance</u>
 
 Companies often collect data through terms of service agreements, granting them extensive rights over user information. Legal and regulatory considerations that govern data collection are essential to ensure compliance with privacy and security standards. Frameworks such as the General Data Protection Regulation (GDPR) play a crucial role in guiding responsible data collection and usage [@europeanparliament2016].
 
@@ -22,15 +24,19 @@ A recent example of this practice is Zoom's update to its Terms of Service, whic
 
 The diversity and complexity of data sources in AI present both opportunities and challenges. While access to rich data sets enables more sophisticated AI applications, it also increases the potential for privacy violations and security breaches
 
-
 ## Security Protocols and Vulnerabilities {-}
 <u>Encryption Techniques and Challenges</u>
 
 Encryption plays a vital role in securing AI data by converting information into a code to prevent unauthorized access. One of the groundbreaking advancements in encryption is homomorphic encryption, which allows computations to be performed on encrypted data without first decrypting it [@gentry2009]. This ensures that sensitive information remains confidential even during processing, enhancing the privacy and security of AI applications. Homomorphic encryption has been applied in various fields, including healthcare and finance, where data privacy is paramount. However, the complexity and computational cost of homomorphic encryption remain challenges, necessitating ongoing research and optimization.
 
+
+<br><img src="Site_Photos/Encryption.png" style="height:300px; width:auto; display:block; margin-left:auto; margin-right:auto;"><br>
+
 <u>Authentication Methods and Concerns</u>
 
-Authentication in AI systems is essential to verify the identity of users and devices, ensuring that only authorized entities can access data and services. Biometric authentication, which uses unique physical characteristics such as fingerprints or facial recognition, is becoming increasingly popular in AI systems [@jain2004introduction]. Biometric authentication offers enhanced security compared to traditional password-based methods. However, it also raises privacy concerns, as biometric data is highly sensitive and must be handled with care. Integrating ways to ensure proper authentication, whether through biometric methods or other forms of verification, is vital because the potential misuse or theft of any authentication information is a significant risk.
+Authentication in AI systems is essential to verify the identity of users and devices, ensuring that only authorized entities can access data and services. Biometric authentication, which uses unique physical characteristics such as fingerprints, is becoming increasingly popular in AI systems [@jain2004introduction]. Biometric authentication can be difficult to implement, but can enhance security compared to traditional password-based methods. However, it also raises privacy concerns, because biometric data is highly sensitive and must be handled with care. Integrating ways to ensure proper authentication, whether through biometric methods or other forms of verification, is vital as AI systems continue to grow.
+
+<br><img src="Site_Photos/Fingerprint_Photo.png" style="height:300px; width:auto; display:block; margin-left:auto; margin-right:auto;"><br>
 
 <u>Identifying and Addressing Risks</u>
 
@@ -42,7 +48,7 @@ AI systems are not immune to vulnerabilities and potential risks. These can rang
    b. *Evasion Attacks*: Altering the input to the AI model to produce incorrect outputs, typically targeted at specific instances to bypass security measures or manipulate AI-driven decisions [@biggio2013evasion].
 3. **Other Risks**: Including unauthorized access, data breaches, and general weaknesses in software or hardware.
 
-The diverse nature of these threats necessitates a multifaceted approach to security. Across all areas, the transition to more robust security measures is a complex and urgent task that requires collaboration between researchers, industry, and regulators to ensure the ongoing integrity and confidentiality of AI systems.
+The diverse nature of these threats requires a multifaceted approach to security. The transition to more robust security measures within AI systems is a complex and urgent task that requires collaboration between researchers, industry, and regulators to ensure the ongoing integrity and confidentiality of AI systems.
 
 ## Countermeasures and Defense Strategies {-}
 <u>Defending Against Attacks and Enhancing Robustness</u>
@@ -64,7 +70,7 @@ Ethical considerations in AI, particularly in the context of security and privac
 
 <u>Challenges and Limitations in Ethical Compliance</u>
 
-Enforcement and accountability are significant challenges in ethical AI. While some principles and guidelines already exist, ensuring compliance can be difficult. The rapidly evolving nature of AI technology, coupled with the complexity of privacy and security issues, makes enforcement a moving target. Moreover, questions related to plagiarism and copyright infringement arise when using others' data to create AI models. The boundaries between legitimate use and infringement are often blurred, leading to ethical dilemmas and potential legal conflicts.
+Enforcement and accountability are significant challenges in ethical AI. While some principles and guidelines already exist, ensuring compliance can be difficult. The rapidly evolving nature of AI technology, coupled with the complexity of privacy and security issues, makes enforcement a moving target. Additionally, the use of others’ data to create AI models creates questions related to plagiarism and copyright infringement. The boundaries between legitimate use and infringement are often blurred, leading to ethical dilemmas and potential legal conflicts.
 
 <u>Future Directions in Ethical AI</u>
 
@@ -73,11 +79,11 @@ The future of ethical AI requires global collaboration and continuous research [
 ## Societal Impact and Public Engagement {-}
 <u>Social and Cultural Implications</u>
 
-The ethical and societal dimensions of privacy and security in AI are complex and multifaceted. The potential for AI to exacerbate social inequalities through biased algorithms or to infringe on individual freedoms through excessive surveillance is real. Public debate and engagement are essential to ensure that AI is developed and used in a manner that aligns with societal values and norms.
+The ethical and societal dimensions of privacy and security in AI are complex and multifaceted. The potential for AI to worsen social inequalities through biased algorithms or to infringe on individual freedoms through excessive surveillance is real. Public debate and engagement are essential when ensuring that AI is developed and used in a manner that aligns with societal values and norms.
 
 <u>Public Awareness and Educational Initiatives</u>
 
-Public awareness and education play a vital role in the responsible development and deployment of AI, with a particular emphasis on security and privacy. Educating the public about the potential risks and safeguards associated with AI is essential for fostering a culture of responsible innovation. However, the technical complexity of AI can pose challenges in conveying these concepts without oversimplification. Promoting awareness in AI security and privacy requires a collaborative and multifaceted approach. Strategies may include public forums, workshops, online resources, and targeted educational programs. The goal is to create an informed public that understands the unique security and privacy challenges posed by AI, and is empowered to engage in meaningful dialogue and decision-making in these critical areas [@nationalacademies2017].
+Public awareness and education play a pivotal role in the responsible development and deployment of AI. However, the technical complexity of AI can pose challenges in conveying these concepts without oversimplification. Promoting awareness in AI security and privacy requires a collaborative and multifaceted approach. Strategies may include public forums, workshops, online resources, and targeted educational programs. The goal is to create an informed public that understands the unique security and privacy challenges posed by AI, and is empowered to engage in meaningful dialogue and decision-making in these critical areas [@nationalacademies2017].
 
 ## Conclusion {-}
 <u>Summary of Key Findings</u>

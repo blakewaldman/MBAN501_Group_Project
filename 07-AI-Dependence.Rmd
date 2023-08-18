@@ -22,7 +22,8 @@ Overreliance has a direct correlation to the complexity of the task to be perfor
 
 Below are the example maze solutions. Which one would you choose?
 
-(Picture) - [@Zumbrun_2023]
+<br><img src="Site_Photos/Maze.png" style="height:200px; width:auto; display:block; margin-left:auto; margin-right:auto;">
+[@Vasconcelos_Jorke_Grunde-McLaughlin_Gerstenberg_Bernstein_Ranjay_2023]<br>
 
 Within both images above, the AI tool proposed a solution along with its reasoning, however, the written directions are more complicated to follow than the simple exit path drawing. The study concluded that the type of explanation is just as significant as the solution itself [@Miller_2023]. The explanation must be simpler than the task to be effective.
 
