@@ -24,7 +24,7 @@ Another problem that comes with the increasing popularity of AI is electronic wa
 
 ## Call to Action {-}
 
-As AI becomes more prominent in everyday life, the need for sustainable AI development becomes increasingly important. Bringing attention to this issue is helpful, but some concrete actions could be 
+As AI becomes more prominent in everyday life, the need for sustainable AI development becomes increasingly important. Bringing attention to this issue is helpful, but some concrete actions could be:
 
   1. Moving model training to areas that are not water stressed.
   2. Push for AI training to use solely renewable energy.
