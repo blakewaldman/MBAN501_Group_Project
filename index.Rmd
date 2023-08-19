@@ -30,4 +30,6 @@ Along with this, humans may lose a sense of privacy and security over their own 
 
 ## Our Aim {-}
 
-We plan to dive into some of the biggest risks and challenges that our world faces today because of AI’s development.  
+We plan to dive into some of the biggest risks and challenges that our world faces today because of AI’s development.
+
+When writing the content found in this site, we made the assumption that our readers may not be extremely familiar with the technical details of AI. As a result, we tailored our approach accordingly. Our goal is to provide a simple, yet thought-provoking introduction to some potential challenges of AI to any individual who is looking to learn more, no matter where they are from, their age, or their educational background.

@@ -40,3 +40,9 @@ The use cases from AI are infinite. From improving healthcare delivery through e
 <li>Amazon invested in an AI tool to rank job applicants to assist the Human Resources department in hiring qualified candidates. The model was trained on data from previous applicants, which happened to be primarily male. Due to the male dominance among the dataset, the model learned to favor male applicants by rejecting resumes that had female undertones [@Dastin_2018]. Qualified female applicants were dismissed from the running and Amazon nixed further development of the tool.</li>
 <li>A Manhattan lawyer used ChatGPT to find supporting evidence for his case. He prompted the AI to provide a list of similar cases to the one he was working on. The platform was able to identify numerous cases that the lawyer added as support in his brief. The court was unable to verify any of these cases listed since all the cases from ChatGPT were fake and the lawyer neglected his due diligence, ultimately leading to the lawyer’s reputation being questioned and being tried [@Weiser_2023]. ChatGPT modifies and regurgitates information from the abundance of Internet content, resulting in text that it thinks should be put together. It is an impressive tool that has many use cases; however, its limitations must be realized.</li>
 </ul>
+
+## Call to Action {-}
+
+  1. **Verify Output**: You must be aware that not all AI generated results are correct; it is your responsibility to validate outputs.
+  2. **Supply Explanations**: AI should provide explanations for how it arrived at its results to help users better understand its reasoning and you must also read the explanations.
+  3. **Keep Up**: It can be easy to allow AI to do simple tasks that you do not want to do; however, you must keep up with how the tasks are done in order to not lose the ability to perform them on your own.

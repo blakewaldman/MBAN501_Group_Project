@@ -45,3 +45,14 @@ Given this, it’s important to consider how having AI trained in the English la
 ## Looking Forward  {-}
 
 It is easy to think of AI in silos, but if one is to anticipate how AI will change the world, these factors need to be considered. The large differences between cultures and regions will definitely impact AI’s spread and the openness to which it is adopted. But even as it is adopted, will AI hold the same value for a company in the US versus Europe versus Africa? Will areas with less exposure to new technology even understand how AI could change the way they go about life? Even if they understand the impacts, would they know how to use AI properly? If demand keeps increasing, who will be able to afford it and who will get pushed out? These are questions that need to be considered as AI begins to grow.
+
+## Conclusion {-}
+<u>Summary of Key Findings</u>
+
+Artificial intelligence will have incredible impacts on daily life, yet we cannot confirm what they will look like until they happen. It’s vital to consider how the rapid emergence of artificial intelligence will shift human behavior and what different populations will and won’t have access to after it begins to spread. sSo far, AI tools have been a great resource for populations and countries that were already leading the way in terms of their integration of technology, while other groups like those with disabilities, people of color, and low-income households or countries may struggle to keep up. The cost of AI and how applicable it is to everyone need to be considered.
+
+<u>Call to Action</u><br>
+Here are some actions to consider as you move forward:
+
+  1. If you are ever in a position where you are creating an AI resource, think about what populations you are allowing and restricting access to through the decisions you make 
+  2. Do your best to educate yourself on cultures, people, and places outside of where you live everyday. The exposure will help you make better decisions going forward, as you’ll see the bigger picture and impact of what you do. 

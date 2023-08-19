@@ -27,4 +27,16 @@ An often overlooked challenge of artificial intelligence comes from the potentia
 ### Integration Risks {-}
 One of the most alluring qualities of artificial intelligence is the ability to integrate into systems in order to standardize processes and in most cases make these processes more efficient. However, what is often left out is the consequences that ensue when integration fails or isn’t properly facilitated. Additionally, it is often easy for individuals to forget that artificial intelligence isn’t always correct, and thus they are less likely to override systems enabled by this software as they believe that the machine is always correct [@Cheatham_Javanmardian_Samandari_2019]. This could lead to disastrous consequences such as, in the case of the self driving car example, a disastrous collision [@Cheatham_Javanmardian_Samandari_2019]. This is also a result of humans' lack of knowledge on artificial intelligence, not knowing the full capabilities of the machine as well as its weaknesses can result in sub-optimal human decisions.
 
-<br><img src="Site_Photos/Waymo_Car.png" style="height:300px; width:auto; display:block; margin-left:auto; margin-right:auto;"><br>
+<br><img src="Site_Photos/Waymo_Car.png" style="height:300px; width:auto; display:block; margin-left:auto; margin-right:auto;">
+
+## Conclusion {-}
+<u>Summary of Key Findings</u>
+
+As more and more individuals start utilizing artificial intelligence, it is important to keep in mind the possible repercussions of both this generative AI and its byproducts. With respect to generative AI, it is crucial to understand where these machines are gathering their data from in order to avoid misinformation and any legal consequences. Similarly, with respect to the byproducts of generative AI, it is necessary to be aware of the broader implications of artificial intelligence in order to hedge any potential consequences of nefarious use.
+
+<u>Call to Action</u><br>
+Consider these actions that can be conducted on an individual basis in order to help mitigate the potential risks and challenges associated with artificial intelligence:
+
+  1. Avoid over relying on artificial intelligence. Keep in mind that AI has its limitations and that humans possess certain unique qualities and skills that distinguish them from machines.
+  2.  Do your own research. When using generative AI to obtain information, conduct your own research to fact check the artificial intelligence generated data.
+  3. Stay educated. Educate yourself on the long-term impacts of artificial intelligence and keep up with current events in order to guide your own decision making regarding using AI.

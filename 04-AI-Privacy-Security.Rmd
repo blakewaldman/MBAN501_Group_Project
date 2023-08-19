@@ -98,7 +98,7 @@ The need for responsible AI development, legal compliance, ethical consideration
   3. **Enhancing Education and Awareness**: Public education to empower informed decisions about AI.
   4. **Fostering Collaboration**: Interdisciplinary collaboration to address complex challenges.
 
-<u>Future Prospects and Innovations</u>
+<u>Future Prospects and Innovations</u><br>
 
 Emerging technologies like quantum computing and federated learning present new opportunities and risks. Ongoing research is vital to harness the benefits of AI responsibly while recognizing inherent risks and ethical considerations.
 

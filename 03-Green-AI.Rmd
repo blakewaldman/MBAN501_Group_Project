@@ -21,3 +21,11 @@ As well as consuming water, AI consumes a lot of energy. Storing data, transferr
 ## Electronic Waste {-}
 
 Another problem that comes with the increasing popularity of AI is electronic waste. E-waste is all the computing parts that are thrown away due to being broken, out of date, or obsolete. While the problem hasn't hit AI extremely hard, a good model of what might happen is the e-waste associated with cryptocurrencies. It is currently estimated that Bitcoin “currently cycles through 30.7 metric kilotons of equipment per year” [@Hern_2021]. This amount of waste stacks up quickly. By bringing attention to this problem, it is possible to practice more sustainable AI development.
+
+## Call to Action {-}
+
+As AI becomes more prominent in everyday life, the need for sustainable AI development becomes increasingly important. Bringing attention to this issue is helpful, but some concrete actions could be 
+
+  1. Moving model training to areas that are not water stressed.
+  2. Push for AI training to use solely renewable energy.
+  3. Take steps to ensure that obsolete hardware is disposed of correctly
